@@ -1,0 +1,31 @@
+#carta {
+    width: 300px;
+    border: 1px solid black;
+    height: 400px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+#icon-up {
+    margin-left: 5px;
+    margin-top: -10px;
+    width: 20px;
+    height: 20px;
+    font-size: 60px;
+}
+
+#icon-down {
+    font-size: 60px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 420px;
+    right: 680px;
+}
+
+
+#number {
+    font-size: 90px;
+    margin-top: 50%;
+    margin-left: 38%;
+}
